@@ -1,4 +1,4 @@
-pandas
-requests
-time
-csv
+import pandas as pd
+import requests
+import time
+import csv
